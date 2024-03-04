@@ -13,7 +13,7 @@
 #-------------------------
 # These should never be under version control,
 # as it poses a security risk.
-.env
+
 
 #-------------------------
 # Temporary Files
