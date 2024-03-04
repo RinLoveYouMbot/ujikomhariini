@@ -1,0 +1,22 @@
+{
+  "name": "Point Of Sale",
+  "type": "project",
+  "description": "Aplikasi sistem penjualan",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "-",
+      "email": "-"
+    }
+  ],
+  "require": {
+    "php": "^7.2 || ^8.0",
+    "codeigniter4/framework": "4.3.2",
+    "phpoffice/phpspreadsheet": "^1.15",
+    "mailjet/mailjet-apiv3-php": "^1.5",
+    "dompdf/dompdf": "^2.0"
+  },
+  "require-dev": {
+    "fakerphp/faker": "^1.9"
+  }
+}
